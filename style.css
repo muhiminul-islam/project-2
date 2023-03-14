@@ -1,0 +1,25 @@
+.flower {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+
+.petals {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  border: 20px solid #f9cda9;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.center {
+  height: 40px;
+  width: 40px;
+  background-color: #fee08b;
+  border-radius: 50%;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
